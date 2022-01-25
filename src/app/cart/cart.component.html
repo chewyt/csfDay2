@@ -1,0 +1,27 @@
+<h1 style="margin-left: 20px;">My Cart</h1>
+
+<br>
+<!-- <h3 *ngIf="cart.length==0" style="padding-bottom: 6.3em;box-shadow: -1px 1px 40px 5px rgba(0,0,0,0.3); border-radius: 6px;" class="text-center">Your cart is empty.</h3> -->
+<p  *ngIf="cart.length==0">
+    <ngb-alert [dismissible]="false" style="padding-left: 20px;">
+      <strong>Warning!</strong> Your cart is empty
+    </ngb-alert>
+  </p>
+<table *ngIf="cart.length!=0"   style="margin-left: 10px;box-shadow: -1px 1px 40px 5px rgba(0,0,0,0.3); border-radius: 6px;" class="table align-middle text-center">
+    <thead>
+        <tr>
+            <th scope="col"></th>
+            <th scope="col">Name</th>
+            <th scope="col">Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+           <tr *ngFor="let food of cart">
+            <!-- <td>{{food.id}}</td> -->
+            <th scope="row" style="vertical-align: middle;"><img height="50px" style="padding-left: -10px ;border-radius: 40em;" src={{food.img}} alt=""></th>
+            <td>{{food.name}}</td>
+            <td colspan="2" style="padding-left: 10px; padding-right:20px ;">{{food.quantity}}</td>
+            <td colspan="2"><button class="btn btn-cushion btn-danger btn-sm" (click)="DeleteFoodItem.emit(food)">Remove</button></td>
+        </tr>
+    </tbody>
+</table>

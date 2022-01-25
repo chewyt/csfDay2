@@ -1,0 +1,19 @@
+
+
+<h1 style="margin-left: 20px;">Please select</h1>
+<br>
+
+  <table style="margin-left: 10px;box-shadow: -1px 1px 40px 5px rgba(0,0,0,0.3); border-radius: 6px;" class="table align-middle text-center">
+        <tbody>
+        <tr *ngFor="let food of menu">
+            <!-- <td>{{food.id}}</td> -->
+            <th scope="row" style="vertical-align: middle;"><img height="50px" style="padding-left: -10px ;border-radius: 40em;" src={{food.img}} alt=""></th>
+            <td colspan="2" style="padding-left: 10px; padding-right:20px ;">{{food.name}}</td>
+          <td colspan="2"><button class="btn btn-cushion btn-primary btn-sm" (click)="AddFoodItem.emit(food)">Add</button></td>
+        </tr>
+    </tbody>
+</table>
+
+  <!-- <div class="row">
+    <input type="range" min=0 max=10 step=0.1 (change)="fontSizeChanged($event)" name="" id=""> 
+   </div> -->
