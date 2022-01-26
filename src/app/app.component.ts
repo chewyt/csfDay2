@@ -32,6 +32,7 @@ export class AppComponent {
 
 
     if (!this.foodCart.includes(food)) {
+      food.quantity=1;
       this.foodCart.push(food);
       console.warn("Food cart added below");
       console.warn(this.foodCart);
