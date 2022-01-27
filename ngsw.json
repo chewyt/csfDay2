@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1643255352687,
-  "index": "workshop2/index.html",
+  "timestamp": 1643285295093,
+  "index": "/csfDay2/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "workshop2/favicon.ico",
-        "workshop2/index.html",
-        "workshop2/main.7d4cffe3dec15a14.js",
-        "workshop2/manifest.webmanifest",
-        "workshop2/polyfills.d39ef3350b1b2b5b.js",
-        "workshop2/runtime.18cf879893c213eb.js",
-        "workshop2/styles.69502ffbb2d876b9.css"
+        "/csfDay2/favicon.ico",
+        "/csfDay2/index.html",
+        "/csfDay2/main.97b3e082f1f97a35.js",
+        "/csfDay2/manifest.webmanifest",
+        "/csfDay2/polyfills.d39ef3350b1b2b5b.js",
+        "/csfDay2/runtime.18cf879893c213eb.js",
+        "/csfDay2/styles.69502ffbb2d876b9.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "workshop2/assets/icons/icon-128x128.png",
-        "workshop2/assets/icons/icon-144x144.png",
-        "workshop2/assets/icons/icon-152x152.png",
-        "workshop2/assets/icons/icon-192x192.png",
-        "workshop2/assets/icons/icon-384x384.png",
-        "workshop2/assets/icons/icon-512x512.png",
-        "workshop2/assets/icons/icon-72x72.png",
-        "workshop2/assets/icons/icon-96x96.png"
+        "/csfDay2/assets/icons/icon-128x128.png",
+        "/csfDay2/assets/icons/icon-144x144.png",
+        "/csfDay2/assets/icons/icon-152x152.png",
+        "/csfDay2/assets/icons/icon-192x192.png",
+        "/csfDay2/assets/icons/icon-384x384.png",
+        "/csfDay2/assets/icons/icon-512x512.png",
+        "/csfDay2/assets/icons/icon-72x72.png",
+        "/csfDay2/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "workshop2/assets/icons/icon-128x128.png": "a13c5801eda61891c63ef91f0719d36925b2243d",
-    "workshop2/assets/icons/icon-144x144.png": "7feb06e05d958959a97de92c83a57fd63548c6e5",
-    "workshop2/assets/icons/icon-152x152.png": "36bf7b2088ab9c3002841ee94f554684a1539b30",
-    "workshop2/assets/icons/icon-192x192.png": "9f7c086da2a3404c2575d482d0ff5975d7d33c82",
-    "workshop2/assets/icons/icon-384x384.png": "6282c48bf02a968e15e720ff0da726506ee19156",
-    "workshop2/assets/icons/icon-512x512.png": "dba8c58e0295690f0a49b0c6b15cf4c198784850",
-    "workshop2/assets/icons/icon-72x72.png": "db261d143522d19d19f8b0f27360cef6360c24c7",
-    "workshop2/assets/icons/icon-96x96.png": "60c2ea4158fe1284f06c73d02e66c126c7c486dd",
-    "workshop2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "workshop2/index.html": "fe4b1146f20f9485fcbcf6d8b1dd10f76fded361",
-    "workshop2/main.7d4cffe3dec15a14.js": "804ec044832f91e5bb18a22e289a19affc73795d",
-    "workshop2/manifest.webmanifest": "3f79fc68dcded389e519014a9c12097506a5018e",
-    "workshop2/polyfills.d39ef3350b1b2b5b.js": "c1fa8cb5d8e7756b61991d177593179cb5a26db3",
-    "workshop2/runtime.18cf879893c213eb.js": "a10677515da4ce07977b1a8b2d45751c5463329e",
-    "workshop2/styles.69502ffbb2d876b9.css": "e753678644f25e3064365772c7523cc1986f11d0"
+    "/csfDay2/assets/icons/icon-128x128.png": "a13c5801eda61891c63ef91f0719d36925b2243d",
+    "/csfDay2/assets/icons/icon-144x144.png": "7feb06e05d958959a97de92c83a57fd63548c6e5",
+    "/csfDay2/assets/icons/icon-152x152.png": "36bf7b2088ab9c3002841ee94f554684a1539b30",
+    "/csfDay2/assets/icons/icon-192x192.png": "9f7c086da2a3404c2575d482d0ff5975d7d33c82",
+    "/csfDay2/assets/icons/icon-384x384.png": "6282c48bf02a968e15e720ff0da726506ee19156",
+    "/csfDay2/assets/icons/icon-512x512.png": "dba8c58e0295690f0a49b0c6b15cf4c198784850",
+    "/csfDay2/assets/icons/icon-72x72.png": "db261d143522d19d19f8b0f27360cef6360c24c7",
+    "/csfDay2/assets/icons/icon-96x96.png": "60c2ea4158fe1284f06c73d02e66c126c7c486dd",
+    "/csfDay2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/csfDay2/index.html": "304282be993544f3f0db9b0ead2fecda2ca4814f",
+    "/csfDay2/main.97b3e082f1f97a35.js": "f0d4f1f6bfa3003d447841b5296c5672278d1a2c",
+    "/csfDay2/manifest.webmanifest": "3f79fc68dcded389e519014a9c12097506a5018e",
+    "/csfDay2/polyfills.d39ef3350b1b2b5b.js": "c1fa8cb5d8e7756b61991d177593179cb5a26db3",
+    "/csfDay2/runtime.18cf879893c213eb.js": "a10677515da4ce07977b1a8b2d45751c5463329e",
+    "/csfDay2/styles.69502ffbb2d876b9.css": "e753678644f25e3064365772c7523cc1986f11d0"
   },
   "navigationUrls": [
     {
