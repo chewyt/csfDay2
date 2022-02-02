@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1643285295093,
+  "timestamp": 1643818259639,
   "index": "/csfDay2/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/csfDay2/assets/icons/icon-72x72.png": "db261d143522d19d19f8b0f27360cef6360c24c7",
     "/csfDay2/assets/icons/icon-96x96.png": "60c2ea4158fe1284f06c73d02e66c126c7c486dd",
     "/csfDay2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/csfDay2/index.html": "304282be993544f3f0db9b0ead2fecda2ca4814f",
+    "/csfDay2/index.html": "218a851412991d59989db7b25947a1b8e79dd514",
     "/csfDay2/main.97b3e082f1f97a35.js": "f0d4f1f6bfa3003d447841b5296c5672278d1a2c",
     "/csfDay2/manifest.webmanifest": "3f79fc68dcded389e519014a9c12097506a5018e",
     "/csfDay2/polyfills.d39ef3350b1b2b5b.js": "c1fa8cb5d8e7756b61991d177593179cb5a26db3",
